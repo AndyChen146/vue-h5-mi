@@ -1,29 +1,33 @@
-# vue3-h5-mi
+# es6-vue-mi
+> 仿小米H5商城示例，请勿用于商用。
 
-## Project setup
-```
-npm install
-```
+## 项目介绍
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+> 一款仿小米商城的H5项目，采用前后端分离。数据本地json。
 
-### Compiles and minifies for production
-```
+## 技术
+
+- vue+ vuex+vue-router
+- webpack
+- axios
+- sass-loader
+- lodash
+
+## 步骤
+
+> 下载项目地址
+
+git clone [http://](url)
+
+> 安装项目包
+
+git install 
+
+> ​	启动项目
+
+npm run start
+
+> 打包发布
+
 npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
