@@ -25,7 +25,7 @@ git install
 
 > ​	启动项目
 
-npm run start
+npm run serve
 
 > 打包发布
 
