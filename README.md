@@ -17,7 +17,7 @@
 
 > 下载项目地址
 
-git clone [http://](url)
+git clone [https://github.com/AndyChen146/vue3-h5-mi.git](url)
 
 > 安装项目包
 
